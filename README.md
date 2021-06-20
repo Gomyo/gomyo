@@ -8,7 +8,7 @@ In my free time you can find me cooking 🐓, running 🏃, at the cafe ☕.
 - 📫 How to reach me: [engcraft1102@gmail.com](mailto:engcraft1102@gmail.com)
 - 🧐 My personal blog: [Blog](https://jdev.tistory.com)
 
-### Tech Stack
+### Tech Stack🔨
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ In my free time you can find me cooking 🐓, running 🏃, at the cafe ☕.
 
 
 ### Activites
-- **SSAFY(Samsung Software Academy For Youth** - Studying `Html`, `CSS`, `Vue`, `Django`, `Algorithm` (Jan 2021 ~ )
+- **SSAFY(Samsung Software Academy For Youth**) - Studying `Html`, `CSS`, `Vue`, `Django`, `Algorithm` (Jan 2021 ~ )
 
 ### Github Stats
 <a href="#">
