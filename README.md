@@ -1,15 +1,20 @@
 ## Hi! I'm Joonwon 
-My name is Joonwon Choi.
-I'm a Frontend Engineer from South Korea 🇰🇷 who interested in UX.
-In my free time you can find me cooking 🐓, running 🏃, at the cafe ☕.
+
+안녕하세요!<br>
+사용자 경험에 관심이 많은 프론트엔드 뉴비 최준원입니다.<br>
+협업과 기획을 좋아합니다.<br>
 
 ### Summary
-- 🌱 I’m currently learning `Vue`, `Django`
+
+- 🛤 `Vue`: `Vuex`, `Vue-router`를 활용한 SPA 개발 경험이 있습니다.
+- 🚄 `React`:  학습 중입니다.
+- 🚀 `Typescript`: 학습 중입니다. 기본적인 문법을 학습하여 `Vue 프로젝트: Together`에 적용한 경험이 있습니다.
 - 📫 How to reach me: [engcraft1102@gmail.com](mailto:engcraft1102@gmail.com)
-- 🧐 My personal blog: [Blog](https://jdev.tistory.com)
+- 🧐 [Blog](https://jdev.tistory.com)
+- ⚡ [Portfolio](https://engcraft1102.notion.site/4a362a33469744779191d6843ebb8ce7)
 
 ### Activites
-- **SSAFY(Samsung Software Academy For Youth**) - Studying `Html`, `CSS`, `Vue.js`, `Django`, `Algorithm` (Jan 2021 ~ )
+- **SSAFY(Samsung Software Academy For Youth) / 2021.01 ~ 2021.12** -  `Html`, `CSS`, `Vue.js`, `Django`, `Algorithm`을 학습했습니다.
 
 ### Solved.ac Tier
 [![Solved.ac
