@@ -8,7 +8,7 @@
 
 - 🛤 `Vue`: `Vuex`, `Vue-router`를 활용한 SPA 개발 경험이 있습니다.
 - 🚄 `React`:  학습 중입니다.
-- 🚀 `Typescript`: 학습 중입니다. 기본적인 문법을 학습하여 `Vue 프로젝트: Together`에 적용한 경험이 있습니다.
+- 🚀 `Typescript`: 학습 중입니다. 기본적인 문법을 학습하여 조금씩 적용해 보고 있습니다.
 - 📫 How to reach me: [engcraft1102@gmail.com](mailto:engcraft1102@gmail.com)
 - 🧐 [Blog](https://jdev.tistory.com)
 - ⚡ [Portfolio](https://engcraft1102.notion.site/4a362a33469744779191d6843ebb8ce7)
