@@ -8,8 +8,11 @@
 - 🧐 [Blog](https://jdev.tistory.com)
 - ⚡ [Portfolio](https://engcraft1102.notion.site/4a362a33469744779191d6843ebb8ce7)
 
-### Activites
-- **SSAFY(Samsung Software Academy For Youth) / 2021.01 ~ 2021.12** -  `Html`, `CSS`, `Vue.js`, `Django`, `Algorithm`을 학습했습니다.
+### Work Experience
+- **Kakao brain Corp. / 2022.06 ~ ing**
+
+### Education
+- **SSAFY(Samsung Software Academy For Youth) / 2021.01 ~ 2021.12**
 
 <!--
 ### Solved.ac Tier
