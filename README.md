@@ -9,7 +9,7 @@
 - ⚡ [Portfolio](https://engcraft1102.notion.site/4a362a33469744779191d6843ebb8ce7)
 
 ### Work Experience
-- **Kakao brain Corp. / 2022.06 ~ ing**
+- **Kakao brain Corp. / SW Engineer / 2022.06 ~ ing**
 
 ### Education
 - **SSAFY(Samsung Software Academy For Youth) / 2021.01 ~ 2021.12**
